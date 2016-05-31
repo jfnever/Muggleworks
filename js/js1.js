@@ -1,3 +1,5 @@
+//localstorage pagecount
+
 if (localStorage.pagecount)
 {
     localStorage.pagecount=Number(localStorage.pagecount) +1;
@@ -14,3 +16,4 @@ countWrite.innerHTML = localStorage.pagecount;
 //window.onload = function(){
    // $("#count1").val(localStorage.pagecount);
 //};
+
