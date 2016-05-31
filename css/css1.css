@@ -144,7 +144,7 @@ nav li {
 }
 
 .main{
-    background-image: url('Muggleworks/images/layer1/mainbear.jpg');
+    background-image: url('../images/layer1/mainbear.jpg');
     background-repeat: no-repeat;
     background-position: center;
     min-height: 300px;
