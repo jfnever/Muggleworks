@@ -16,7 +16,7 @@ a:hover{
     color: #7ecaac;
 }
 
-body{
+.container{
     margin: 0 10% 0 10%;
     color: #727272;
     line-height: 2;
